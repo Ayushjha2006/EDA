@@ -7,8 +7,6 @@ Python
 
 . Pandas → Data manipulation
 
-. Matplotlib & Seaborn → Data visualization
-
 . NumPy → Numerical operations
 
 📂 Dataset
